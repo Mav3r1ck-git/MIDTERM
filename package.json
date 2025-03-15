@@ -1,0 +1,25 @@
+{
+  "name": "villarta_midterm_exam",
+  "version": "1.0.0",
+  "main": "question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mav3r1ck-git/MIDTERM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mav3r1ck-git/MIDTERM/issues"
+  },
+  "homepage": "https://github.com/Mav3r1ck-git/MIDTERM#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  }
+}

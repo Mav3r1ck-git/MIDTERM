@@ -1,5 +1,5 @@
-function reverseString(str) {
-    return str.split('').reverse().join('');
+const countProperties = (object) => {
+    return Object.keys(object).length
 }
 
-console.log(reverseString("hello")); // Expected output: "olleh"
+console.log(countProperties({a:1,b:2,c:3}))
